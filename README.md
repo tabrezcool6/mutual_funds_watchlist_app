@@ -6,7 +6,7 @@ A new Flutter project.
 
 DhanSaarthi App in #Flutter
 
-Here is an app that allows the User with the following features,
+# Here is an app that allows the User with the following features,
 
 #Features:
 1. Sign In using Phone Number
@@ -28,4 +28,20 @@ Here is an app that allows the User with the following features,
 
 Most of the code is detailed in the project itself.
 
+# Links - Demo, .apk File, source code
+
 checkout link for demo, apk_file :  https://drive.google.com/drive/folders/1UnlmH4L_jBNyjTHArmmfBunXegHPGBy1
+
+
+# App Screen Shots
+
+Welcome Page                                    |Sign In Page                                     |Otp Verification Page     
+:-------------------------:                     |:-------------------------:                      |:-------------------------: 
+![alt text](<screenshots/1 auth_welcome.jpg>)   |![alt text](<screenshots/2 auth_signin.png>)     |![alt text](<screenshots/3 auth_otp.png>) 
+
+
+
+Home Page                                       |Charts Page                                      |Watchlist Page
+:-------------------------:                     |:-------------------------:                      |:-------------------------:
+![alt text](<screenshots/4 home.png>)           |![alt text](<screenshots/5 charts.png>)          |![alt text](<screenshots/6 watchlist.png>) 
+
