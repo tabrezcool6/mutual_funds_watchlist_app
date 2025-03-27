@@ -28,4 +28,4 @@ Here is an app that allows the User with the following features,
 
 Most of the code is detailed in the project itself.
 
-checkout #git repo for complete source code: https://lnkd.in/g-6R-uS7
+checkout link for demo, apk_file :  https://drive.google.com/drive/folders/1UnlmH4L_jBNyjTHArmmfBunXegHPGBy1
