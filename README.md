@@ -37,7 +37,7 @@ checkout link for demo, apk_file :  https://drive.google.com/drive/folders/1Unlm
 
 Welcome Page                                    |Sign In Page                                     |Otp Verification Page     
 :-------------------------:                     |:-------------------------:                      |:-------------------------: 
-![alt text](<screenshots/auth_welcome.jpg>)     |![alt text](<screenshots/auth_signin.jpg>)         |![alt text](<screenshots/auth_otp.jpg>) 
+![alt text](<screenshots/auth_welcome.jpg>)     |![alt text](<screenshots/auth_signin.jpg>)       |![alt text](<screenshots/auth_otp.jpg>) 
 
 
 
