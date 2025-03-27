@@ -37,11 +37,11 @@ checkout link for demo, apk_file :  https://drive.google.com/drive/folders/1Unlm
 
 Welcome Page                                    |Sign In Page                                     |Otp Verification Page     
 :-------------------------:                     |:-------------------------:                      |:-------------------------: 
-![alt text](<screenshots/1 auth_welcome.jpg>)   |![alt text](<screenshots/2 auth_signin.png>)     |![alt text](<screenshots/3 auth_otp.png>) 
+![alt text](<screenshots/auth_welcome.jpg>)     |![alt text](<screenshots/auth_signin.png>)         |![alt text](<screenshots/auth_otp.png>) 
 
 
 
 Home Page                                       |Charts Page                                      |Watchlist Page
 :-------------------------:                     |:-------------------------:                      |:-------------------------:
-![alt text](<screenshots/4 home.png>)           |![alt text](<screenshots/5 charts.png>)          |![alt text](<screenshots/6 watchlist.png>) 
+![alt text](<screenshots/home.png>)             |![alt text](<screenshots/charts.png>)            |![alt text](<screenshots/watchlist.png>) 
 
