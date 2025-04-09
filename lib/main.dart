@@ -56,7 +56,7 @@ class _MyAppState extends State<MyApp> {
         builder: (context, isLoggedIn) {
           if (isLoggedIn) {
             // return const ChartsPage();
-            return const Dashboard();1
+            return const Dashboard();
           }
           return const WelcomePage();
         },
