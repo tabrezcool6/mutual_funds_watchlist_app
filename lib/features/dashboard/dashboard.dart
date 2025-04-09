@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:mutual_funds_watchlist/core/constants.dart';
+import 'package:mutual_funds_watchlist/core/constants/constants.dart';
 import 'package:mutual_funds_watchlist/core/theme/app_pallete.dart';
 import 'package:mutual_funds_watchlist/features/auth/presentation/widgets/auth_home_indicator.dart';
 import 'package:mutual_funds_watchlist/features/dashboard/nav_pages/charts_page.dart';

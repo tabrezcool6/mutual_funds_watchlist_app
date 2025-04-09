@@ -1,4 +1,4 @@
-import 'package:mutual_funds_watchlist/core/constants.dart';
+import 'package:mutual_funds_watchlist/core/constants/constants.dart';
 import 'package:mutual_funds_watchlist/core/error/exceptions.dart';
 import 'package:mutual_funds_watchlist/core/error/failures.dart';
 import 'package:mutual_funds_watchlist/features/auth/data/datasources/auth_supabase_data_source.dart';

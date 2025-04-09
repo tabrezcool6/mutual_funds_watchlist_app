@@ -10,6 +10,7 @@ class AppPallete {
   static const Color homeContinueText = Color(0xFF888888);
 
   static const Color doveGreyColor = Color(0xFF888888);
+  static const Color doveGrey200Color = Color(0xFFd1d1d1);
   static const Color doveGrey300Color = Color(0xFFb0b0b0);
   static const Color doveGrey400Color = Color(0xFF888888);
   static const Color doveGrey500Color = Color(0xFF6d6d6d);
@@ -27,4 +28,10 @@ class AppPallete {
 
   static const Color chartLineYellow = Color(0xFFfda712);
   static const Color chartLineBlue = Color(0xFF0070df);
+
+  static Color slideractiveColor = Color(0xFF0080ff);
+  static Color sliderInactiveColor = Color(0xFF0080ff).withOpacity(0.2);
+
+  static Color apple500Color = Color(0xFF4caf50);
+  static Color apple600Color = Color(0xFF358438);
 }

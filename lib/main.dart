@@ -5,6 +5,7 @@ import 'package:mutual_funds_watchlist/features/auth/presentation/bloc/auth_bloc
 import 'package:mutual_funds_watchlist/features/auth/presentation/pages/welcome_page.dart';
 import 'package:mutual_funds_watchlist/features/dashboard/dashboard.dart';
 import 'package:mutual_funds_watchlist/features/auth/presentation/bloc/otp_timer_cubit/otp_timer_cubit.dart';
+import 'package:mutual_funds_watchlist/features/dashboard/nav_pages/charts_page.dart';
 import 'package:mutual_funds_watchlist/init_dependencies.dart';
 
 void main() async {
@@ -54,7 +55,8 @@ class _MyAppState extends State<MyApp> {
         },
         builder: (context, isLoggedIn) {
           if (isLoggedIn) {
-            return const Dashboard();
+            // return const ChartsPage();
+            return const Dashboard();1
           }
           return const WelcomePage();
         },

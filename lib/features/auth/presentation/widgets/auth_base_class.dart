@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mutual_funds_watchlist/core/constants.dart';
+import 'package:mutual_funds_watchlist/core/constants/constants.dart';
 import 'package:mutual_funds_watchlist/core/theme/app_pallete.dart';
 
 /// TODO: today

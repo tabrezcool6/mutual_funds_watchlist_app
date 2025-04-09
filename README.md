@@ -35,9 +35,49 @@ checkout link for demo, apk_file :  https://drive.google.com/drive/folders/1Unlm
 
 # App Screen Shots
 
-Welcome Page                                    |Sign In Page                                     |Otp Verification Page     
-:-------------------------:                     |:-------------------------:                      |:-------------------------: 
-![alt text](<screenshots/auth_welcome.jpg>)     |![alt text](<screenshots/auth_signin.jpg>)       |![alt text](<screenshots/auth_otp.jpg>) 
+Welcome Page                                    |Sign In Page
+:-------------------------:                     |:-------------------------:
+![alt text](<screenshots/auth_welcome.jpg>)     |![alt text](<screenshots/auth_signin.jpg>)
+
+
+
+Otp Verification Page                           |Home Page
+:-------------------------:                     |:-------------------------:
+![alt text](<screenshots/auth_otp.jpg>)         |![alt text](<screenshots/home.jpg>)
+
+
+
+|Charts Page                                    |Watchlist Page
+|:-------------------------:                    |:-------------------------:
+|![alt text](<screenshots/charts.jpg>)          |![alt text](<screenshots/watchlist.jpg>) 
+
+
+
+|Chart1 Page                                    |Chart2 Page
+|:-------------------------:                    |:-------------------------:
+|![alt text](<screenshots/chart1.jpg>)          |![alt text](<screenshots/Chart2.jpg>) 
+
+
+
+|Chart3 Page                                    |Chart4 Page
+|:-------------------------:                    |:-------------------------:
+|![alt text](<screenshots/Chart3.jpg>)          |![alt text](<screenshots/Chart4.jpg>) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -50,6 +50,7 @@ class TextStyles {
     );
   }
 
+  /// CUSTOM STYLES
   ///
   /// Size 14, color Dove 300, Regular, Weight 400 - CUSTOM
   static size14cWhiteRegular400(String text, {Color? color}) {
@@ -163,12 +164,27 @@ class TextStyles {
 
   ///
   /// Size 10, color Dove 300, Regular, Weight 400
-  static customSizeColorTextStyle({double? fontSize, Color? color}) {
+  static customSizeColorTextStyle({
+    double? fontSize,
+    Color? color,
+    FontWeight? weight,
+  }) {
     return TextStyle(
       fontSize: fontSize ?? 10.0,
       color: color ?? AppPallete.whiteColor,
       fontFamily: 'Gilroy',
-      fontWeight: FontWeight.w400,
+      fontWeight: weight ?? FontWeight.w400,
     );
   }
+
+  ///
+  /// Size 10, color Dove 300, Regular, Weight 400
+  // static customSizeColorTextStyle({double? fontSize, Color? color}) {
+  //   return TextStyle(
+  //     fontSize: fontSize ?? 10.0,
+  //     color: color ?? AppPallete.whiteColor,
+  //     fontFamily: 'Gilroy',
+  //     fontWeight: FontWeight.w400,
+  //   );
+  // }
 }

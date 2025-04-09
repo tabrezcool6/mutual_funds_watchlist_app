@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:mutual_funds_watchlist/core/common/widgets/primary_button.dart';
-import 'package:mutual_funds_watchlist/core/constants.dart';
+import 'package:mutual_funds_watchlist/core/constants/constants.dart';
 import 'package:mutual_funds_watchlist/core/theme/app_pallete.dart';
 import 'package:mutual_funds_watchlist/core/theme/text_styles.dart';
 
