@@ -51,39 +51,16 @@ Otp Verification Page                           |Home Page
 
 |Charts Page                                    |Watchlist Page
 |:-------------------------:                    |:-------------------------:
-|![alt text](<screenshots/charts.jpg>)          |![alt text](<screenshots/watchlist.jpg>) 
+|![alt text](<screenshots/charts.jpg>)          |![alt text](<screenshots/watchlist.jpg>)
 
 
 
 |Chart1 Page                                    |Chart2 Page
 |:-------------------------:                    |:-------------------------:
-|![alt text](<screenshots/chart1.jpg>)          |![alt text](<screenshots/Chart2.jpg>) 
+|![alt text](<screenshots/chart1.jpg>)          |![alt text](<screenshots/Chart2.jpg>)
 
 
 
 |Chart3 Page                                    |Chart4 Page
 |:-------------------------:                    |:-------------------------:
-|![alt text](<screenshots/Chart3.jpg>)          |![alt text](<screenshots/Chart4.jpg>) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Home Page                                       |Charts Page                                      |Watchlist Page
-:-------------------------:                     |:-------------------------:                      |:-------------------------:
-![alt text](<screenshots/home.jpg>)             |![alt text](<screenshots/charts.jpg>)            |![alt text](<screenshots/watchlist.jpg>) 
-
+|![alt text](<screenshots/Chart3.jpg>)          |![alt text](<screenshots/Chart4.jpg>)
