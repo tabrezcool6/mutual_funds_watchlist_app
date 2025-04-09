@@ -28,6 +28,8 @@ DhanSaarthi App in #Flutter
 
 Most of the code is detailed in the project itself.
 
+Note: OTP expires in 30 secs, because I have set the value of it in the supabase. Once the timer is stopped, OTP doesn't work. Kindly generate new one by clicking RESEND button.
+
 # Links - Demo, .apk File, source code
 
 checkout link for demo, apk_file :  https://drive.google.com/drive/folders/1UnlmH4L_jBNyjTHArmmfBunXegHPGBy1
